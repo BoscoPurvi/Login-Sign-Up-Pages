@@ -1,0 +1,30 @@
+body{
+	background-position:center;
+	 background : url(two.jpg) no-repeat;
+	 background-size : cover;
+	
+	
+	
+	
+} 
+
+.simple-form {
+	text-align : center;
+	margin:150px 100px 50px 50px;
+}
+
+#register {
+	width : 30%;
+	background-color : #273038;
+	opacity : 0.8;
+	padding : 10px 10px;
+}
+
+#button {
+	width : 250px;
+	padding:10px;
+	border-radius :15px;
+	border-color : #000000 ;
+	
+	
+}
